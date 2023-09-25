@@ -1,4 +1,4 @@
-# 20210108 Genuary Day 08 - "Curves Only"
+# Genuary Day 08 - "Curves Only"
 ## Process
 1. For some number of rows, split the width of canvas into random sizes sections. Each section gets a control point alternating up and down. These points will be smoothed out to form a curve later. 
 2. Between each row, create secondary rows whose points interpolate the primary row points.
