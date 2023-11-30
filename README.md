@@ -20,6 +20,9 @@ I have quite a lot of code on my laptop from over the years that could really us
 #### [rainbow smoke](https://github.com/Somorovd/sumruv-generative-art/tree/main/java/sketch_20210308_rainbow_smoke)
 ![271795078-3dc219df-019a-4dc6-8a7c-20061295ecae](https://github.com/Somorovd/sumruv-generative-art/assets/18534469/939d08fc-6a8a-4304-8034-cae5f040b4a5)
 
+#### [jelly tiling](https://github.com/Somorovd/sumruv-generative-art/tree/main/java/sketch_20200702_jelly_tiling)
+![image](https://github.com/Somorovd/sumruv-generative-art/assets/18534469/8d528a39-bb16-4f16-856c-ce1a46967f01)
+
 ### Javascript
 #### [differential growth](https://github.com/Somorovd/sumruv-generative-art/tree/main/javascript/20221209_differential_growth)
 ![271148234-6d020764-10af-41a1-9cb7-f589f006652c](https://github.com/Somorovd/sumruv-generative-art/assets/18534469/5f489564-06a1-44ff-ba68-7500e4eadf10)
